@@ -1,0 +1,49 @@
+#tuloksia {
+    margin-top: 100px;
+}
+
+#ammattialat {
+    margin-top: 50px;
+}
+
+body {
+    text-align: center;
+    background-color: rgb(59, 59, 59);
+}
+
+div#ammattialat {
+    margin-top: 50px;
+    margin-left: 30px;
+    margin-right: 30px;
+    display: grid;
+}
+
+div#opetus {
+    margin-top: 50px;
+    margin-left: 25px;
+    display: inline-flex;
+}
+
+li#osoite {
+    background-color: rgb(201, 206, 199);
+}
+
+li#haku {
+    background-color: rgb(201, 206, 199);
+}
+
+th {
+    color: ghostwhite;
+}
+h2 {
+    color: rgb(122, 52, 52);
+}
+div.card-body {
+    background-color: rgb(201, 206, 199);
+}
+.list-group {
+    background-color: rgb(201, 206, 199);
+}
+::marker {
+    color: rgb(59, 59, 59);
+}
